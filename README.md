@@ -1,4 +1,4 @@
-🔗 Live App: [Goal Planner AI Agent](https://ai-financial-insights-app.streamlit.app/)
+🔗 Live App: [AI Financial insights app](https://ai-financial-insights-app.streamlit.app/)
 
 
 
