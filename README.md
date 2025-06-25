@@ -1,3 +1,7 @@
+🔗 Live App: [Goal Planner AI Agent](https://ai-financial-insights-app.streamlit.app/)
+
+
+
 # AI-Financial_insights_app# 💼 AI-Powered Financial Summary Generator
 
 This Streamlit app lets users upload Excel or CSV files with financial data (Revenue, Expenses, Net Profit), and instantly generates:
